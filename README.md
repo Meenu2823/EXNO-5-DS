@@ -20,6 +20,7 @@ STEP 5:Include Necessary parameters in each functions.
 # Coding and Output:
 
  Developed By : Meenu.S
+ 
  Register No. : 212223230124
 
 ![image](https://github.com/Meenu2823/EXNO-5-DS/assets/139416219/feec1c4c-fca0-4028-917c-1d9008b839fb)
@@ -46,4 +47,4 @@ STEP 5:Include Necessary parameters in each functions.
  
 
 # Result:
- Thus,Data Visualization is Performed using matplot python library for the given datas.
+ Thus, Data Visualization is Performed using matplot python library for the given datas.
